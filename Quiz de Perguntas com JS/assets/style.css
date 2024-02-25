@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(44, 58, 111);
+    font-family: sans-serif;
+    color: aliceblue;
+    font-style: italic;
+    text-align: center;
+    font-size: 1.7em;
+    padding-top:6vh;
+    width: 98vw;
+    align-items: center;
+}
+
+h1 {
+    font-size: 2em;
+    font-family: cursive;
+    font-weight: normal;
+    color: cadetblue;
+}
+
+h2 {
+    font-size: 1em;
+    padding-bottom: 3rem;
+
+}
+footer{ 
+    padding-top: 5rem;
+    font-size: 15px;
+    text-align: left;
+    
+}
+
+a , a:hover {
+    text-decoration: none;
+    color:antiquewhite;
+    font-weight:bold;
+    cursor: pointer;
+}
